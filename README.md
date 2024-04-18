@@ -19,6 +19,8 @@ git clone https://github.com/your-username/voice-assistant.git
   * pip install pyAudio
   * pip install setuptools
   * pip install selenium
+* update below mentioned information in ss.py file
+  * 
 
 * Run the main script:
 python main.py
