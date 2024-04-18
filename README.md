@@ -14,7 +14,7 @@ Time and Date: Provides current time and date information.
 git clone https://github.com/your-username/voice-assistant.git
 
 * Install the required Python packages:
-pip install -r requirements.txt
+pip install speechRecognition 
 
 * Run the main script:
 python main.py
