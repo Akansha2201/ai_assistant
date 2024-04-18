@@ -18,7 +18,7 @@ git clone https://github.com/your-username/voice-assistant.git
   * pip install  pyttsx3
   * pip install pyAudio
   * pip install setuptools
-  * pip install seleniumWeb
+  * pip install selenium
 
 * Run the main script:
 python main.py
