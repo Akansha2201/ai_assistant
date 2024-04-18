@@ -20,7 +20,12 @@ git clone https://github.com/your-username/voice-assistant.git
   * pip install setuptools
   * pip install selenium
 * update below mentioned information in ss.py file
-  * 
+    news_API_key = ""
+
+    weather_API_key = ""
+
+    sender_email = ""
+    sender_password = ""
 
 * Run the main script:
 python main.py
