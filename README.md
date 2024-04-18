@@ -14,11 +14,11 @@ Time and Date: Provides current time and date information.
 git clone https://github.com/your-username/voice-assistant.git
 
 * Install the required Python packages:
-pip install speechRecognition
-pip install  pyttsx3
-pip install pyAudio
-pip install setuptools
-pip install seleniumWeb
+  * pip install speechRecognition
+  * pip install  pyttsx3
+  * pip install pyAudio
+  * pip install setuptools
+  * pip install seleniumWeb
 
 * Run the main script:
 python main.py
